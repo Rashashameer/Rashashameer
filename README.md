@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rashashameer
-- 👀 I’m interested in Pure science and tech. 
+- 👀 I’m interested in the intersection  of Data Science and Biology 
 - 🌱 I’m currently learning BSMS from IISER TVM. 
 - 💞️ I’m looking to collaborate on research projects and workshops
 - 📫 Reach me @:rasha24@iisertvm.ac.in 
