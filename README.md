@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Rashashameer
-- 👀 I’m interested in the intersection  of Data Science and Biology 
-- 🌱 I’m currently learning BSMS from IISER TVM. 
-- 💞️ I’m looking to collaborate on research projects and workshops
-- 📫 Reach me @:rasha24@iisertvm.ac.in 
-- 
-- 
+**Rasha shameer**  
+BSMS IISER Thiruvananthapuram  
+Data Science major  
+
+Focused on applying machine learning and data science to biology, with a primary interest in:
+- Drug discovery
+- AI-driven healthcare
+- Biomedical data analysis
+
+Currently I build projects in Python (PyTorch, scikit-learn) involving medical imaging, biological data, computational biology, and ML pipelines, and aim to work on real-world problems in computational biology and biotech.
 
 <!---
 Rashashameer/Rashashameer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
